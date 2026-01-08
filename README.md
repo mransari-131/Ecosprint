@@ -1,8 +1,5 @@
 # EcoSprint - E-Commerce Website 🛍  
 
-## 🔗 Live Demo  
-**Live Website:** [Visit Here](https://ecosprint.netlify.app/)
-
 ## 📌 Description  
 This is a full-featured **e-commerce website** built with the **MERN (MongoDB, Express.js, React.js, Node.js) stack**. It provides a seamless online shopping experience with a modern UI, secure authentication(JWT, RBAC), and a admin dashboard for product management and order management.  
 
