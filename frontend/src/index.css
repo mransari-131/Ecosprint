@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (min-width: 640px) and (max-width: 767px) {
+    .hide-hr {
+      display: none;
+    }
+  }
+
+  @media (min-width: 0px) and (max-width: 639px) {
+    .hhr {
+        position: absolute;
+        width: 100%;
+        border-top: 2px solid #d1d5db; /* gray-300 equivalent in Tailwind */
+        z-index: 0;
+    }
+  }
+
+  .bgc{
+    background-color: #E1DAE2;
+  }
+
+  .cbg{
+    background-color: #242222;
+  }
+
+  @media (min-width: 0px) and (max-width: 369px) {
+    .sgrid {
+        grid-column: 1;
+    }
+  }
+
